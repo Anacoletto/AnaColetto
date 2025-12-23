@@ -11,21 +11,33 @@ Aberta a oportunidades de estágio, projetos colaborativos ou desafios que me aj
 
 ### 🛠️ Tecnologias & Ferramentas
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+### ⚡ Tecnologias & Ferramentas
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="50" height="50"/>
+
 </div>
 
 ---
 
 ### 📌 Sobre mim
 
-- 📚 Fortalecendo a base em **lógica, algoritmos e estruturas de dados** com C  
-- 🎨 Criando interfaces com **HTML, CSS e JavaScript**  
+- 📚 Fortalecendo a base em lógica, algoritmos e estruturas de dados com **C**  
+- 🎨 Desenvolvendo interfaces e projetos com **HTML, CSS e JavaScript**  
+- 🧠 Aprofundando conhecimentos em **Machine Learning** e Inteligência Artificial  
 - 🌱 Em constante aprendizado e evolução na área de tecnologia  
-- 💡 Interesse em desenvolvimento web e engenharia de software
+- 💡 Apaixonada por desenvolvimento web, engenharia de software e IA  
+
+Vamos trocar uma ideia ou colaborar em algum projeto? Fica à vontade pra me chamar! 👋
 
 ---
 
