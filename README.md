@@ -9,9 +9,7 @@ Aberta a oportunidades de estágio, projetos colaborativos ou desafios que me aj
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
-
-### ⚡ Tecnologias & Ferramentas
+### 💻🛠️ Tecnologias & Ferramentas
 
 <div align="center">
 
@@ -23,7 +21,9 @@ Aberta a oportunidades de estágio, projetos colaborativos ou desafios que me aj
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Jupyter" width="50" height="50"/>
+          
 
 </div>
 
