@@ -1,8 +1,11 @@
 ### Oiii eu sou a Ana 💖!
+ 
+Estudante de Engenharia de Software apaixonaa por tecnologia e resolução de problemas.
+Atualmente, mantenho alguns projetos front-end com **HTML, CSS e JavaScript** (disponíveis aqui no repositório), e tenho sólida base em **C**. 
+No momento, estou focado em aprofundar meus conhecimentos em **Machine Learning**, estudando conceitos fundamentais, algoritmos e ferramentas como Python, TensorFlow/PyTorch e bibliotecas de dados (pandas, numpy, scikit-learn).  
+Aberta a oportunidades de estágio, projetos colaborativos ou desafios que me ajudem a crescer na área!  
 
-🎓 Estudante de **Engenharia de Software**  
-💻 Desenvolvendo projetos em **C** e **Front-end**  
-🚀 Aprendendo na prática, um projeto de cada vez
+🚀 Sempre em busca do próximo aprendizado.
 
 ---
 
