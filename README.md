@@ -3,6 +3,7 @@
 🎓 Estudante de **Engenharia de Software**  
 💻 Desenvolvendo projetos em **C** e **Front-end**  
 🚀 Aprendendo na prática, um projeto de cada vez
+
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
