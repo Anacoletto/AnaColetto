@@ -1,14 +1,20 @@
 ### Oiii eu sou a Ana 💖!
  
+💻 Oiii! Eu sou a Ana 💖
+
 Sou estudante de Engenharia de Software, apaixonada por tecnologia, resolução de problemas e aprendizado contínuo.
+
 Atualmente estou direcionando meus estudos para a área de Análise de Dados, explorando como os dados podem gerar insights e apoiar tomadas de decisão. Tenho desenvolvido habilidades em Python para análise de dados, utilizando bibliotecas como Pandas e NumPy, além de estudar visualização e interpretação de dados.
+
 Também possuo experiência com HTML, CSS e JavaScript no desenvolvimento de interfaces web, além de uma base sólida em lógica de programação com C.
+
 Tenho grande interesse em Machine Learning e Inteligência Artificial, áreas que pretendo aprofundar ao longo da minha jornada na tecnologia.
+
 🚀 Aqui no meu GitHub você encontrará projetos relacionados a programação, desenvolvimento web e análise de dados, que fazem parte da minha evolução e aprendizado na área.
+
 📊 Atualmente busco oportunidades de estágio, projetos colaborativos e desafios que contribuam para meu crescimento em dados e tecnologia.
 
 ✨ Sempre em busca do próximo aprendizado.
----
 
 ### 💻🛠️ Tecnologias & Ferramentas
 
@@ -32,11 +38,17 @@ Tenho grande interesse em Machine Learning e Inteligência Artificial, áreas qu
 
 ### 📌 Sobre mim
 
-- 📚 Fortalecendo a base em lógica, algoritmos e estruturas de dados com **C**  
-- 🎨 Desenvolvendo interfaces e projetos com **HTML, CSS e JavaScript**  
-- 🧠 Aprofundando conhecimentos em **Machine Learning** e Inteligência Artificial  
-- 🌱 Em constante aprendizado e evolução na área de tecnologia  
-- 💡 Apaixonada por desenvolvimento web, engenharia de software e IA  
+-📚 Fortalecendo a base em lógica, algoritmos e estruturas de dados com C
+
+-🎨 Desenvolvendo interfaces e projetos com HTML, CSS e JavaScript
+
+-📊 Estudando Análise de Dados com Python
+
+-🤖 Explorando conceitos de Machine Learning e Inteligência Artificial
+
+-🌱 Em constante evolução na área de tecnologia
+
+💬 Vamos trocar uma ideia ou colaborar em algum projeto? Fique à vontade para me chamar!
 
 Vamos trocar uma ideia ou colaborar em algum projeto? Fica à vontade pra me chamar! 👋
 
