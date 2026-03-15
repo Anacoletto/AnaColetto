@@ -49,7 +49,6 @@ Tenho grande interesse em Machine Learning e Inteligência Artificial, áreas qu
 
 💬 Vamos trocar uma ideia ou colaborar em algum projeto? Fique à vontade para me chamar!
 
-Vamos trocar uma ideia ou colaborar em algum projeto? Fica à vontade pra me chamar! 👋
 
 ---
 
