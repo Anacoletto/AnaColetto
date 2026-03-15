@@ -1,6 +1,5 @@
 ### Oiii eu sou a Ana 💖!
  
-💻 Oiii! Eu sou a Ana 💖
 
 Sou estudante de Engenharia de Software, apaixonada por tecnologia, resolução de problemas e aprendizado contínuo.
 
