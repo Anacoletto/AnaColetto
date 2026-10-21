@@ -1,64 +1,82 @@
-### Oiii eu sou a Ana 💖!
- 
+<div align="center">
 
-Sou estudante de Engenharia de Software, apaixonada por tecnologia, resolução de problemas e aprendizado contínuo.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:C084FC&height=200&section=header&text=Ana%20Beatriz%20Coletto&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student&descAlignY=55&descSize=18"/>
 
-Atualmente estou direcionando meus estudos para a área de Análise de Dados, explorando como os dados podem gerar insights e apoiar tomadas de decisão. Tenho desenvolvido habilidades em Python para análise de dados, utilizando bibliotecas como Pandas e NumPy, além de estudar visualização e interpretação de dados.
+<a href="https://www.linkedin.com/in/anabeatrizcoletto/">
+  <img src="https://img.shields.io/badge/LinkedIn-7F00FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:seuemail@exemplo.com">
+  <img src="https://img.shields.io/badge/Email-C084FC?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-Também possuo experiência com HTML, CSS e JavaScript no desenvolvimento de interfaces web, além de uma base sólida em lógica de programação com C.
+</div>
 
-Tenho grande interesse em Machine Learning e Inteligência Artificial, áreas que pretendo aprofundar ao longo da minha jornada na tecnologia.
+<br>
 
-🚀 Aqui no meu GitHub você encontrará projetos relacionados a programação, desenvolvimento web e análise de dados, que fazem parte da minha evolução e aprendizado na área.
+### 👋 Sobre mim
 
-📊 Atualmente busco oportunidades de estágio, projetos colaborativos e desafios que contribuam para meu crescimento em dados e tecnologia.
+Sou estudante de **Engenharia de Software** (2º ano), construindo bases sólidas em lógica, estruturas de dados e desenvolvimento web — com interesse crescente em **análise de dados** como diferencial na forma de pensar e resolver problemas.
 
-✨ Sempre em busca do próximo aprendizado.
+- 🔭 Atualmente aprofundando **[tecnologia que você está estudando agora]**
+- 🌱 Também estudando **Python para análise de dados** (Pandas, NumPy) como complemento à formação
+- 🎯 Buscando minha primeira oportunidade como **Engenheira de Software Júnior**
+- 💬 Aberta a trocar ideia sobre projetos, código e carreira
 
-### 💻🛠️ Tecnologias & Ferramentas
+<br>
+
+### 🛠️ Stack principal
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="50" height="50"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Jupyter" width="50" height="50"/>
-          
+<img src="https://skillicons.dev/icons?i=c,html,css,js,python,git,github,vscode&theme=dark" />
 
 </div>
 
----
+<br>
 
-### 📌 Sobre mim
+### 📊 Também aplico em análise de dados
 
--📚 Fortalecendo a base em lógica, algoritmos e estruturas de dados com C
+<div align="center">
 
--🎨 Desenvolvendo interfaces e projetos com HTML, CSS e JavaScript
+<img src="https://skillicons.dev/icons?i=python,jupyter&theme=dark" />
+<img src="https://img.shields.io/badge/Pandas-7F00FF?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-C084FC?style=for-the-badge&logo=numpy&logoColor=white"/>
 
--📊 Estudando Análise de Dados com Python
-
--🤖 Explorando conceitos de Machine Learning e Inteligência Artificial
-
--🌱 Em constante evolução na área de tecnologia
-
-💬 Vamos trocar uma ideia ou colaborar em algum projeto? Fique à vontade para me chamar!
-
-
----
-
-### 📫 Onde me encontrar
-
-<div> 
-  <a href="https://www.linkedin.com/in/anabeatrizcoletto/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
 </div>
 
----
+<br>
+
+### 📈 Estatísticas
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Anacoletto&show_icons=true&theme=transparent&title_color=7F00FF&icon_color=C084FC&text_color=ffffff&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anacoletto&layout=compact&theme=transparent&title_color=7F00FF&text_color=ffffff&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anacoletto&theme=transparent&hide_border=true&ring=7F00FF&fire=C084FC&currStreakLabel=7F00FF" />
+
+</div>
+
+<br>
+
+### 🚀 Projetos em destaque
+
+<div align="center">
+
+<a href="https://github.com/Anacoletto/Sistema-de-Gerenciamento-de-biblioteca">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anacoletto&repo=Sistema-de-Gerenciamento-de-biblioteca&theme=transparent&title_color=7F00FF&text_color=ffffff&hide_border=true" />
+</a>
+<a href="https://github.com/Anacoletto/Spotify-interface">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anacoletto&repo=Spotify-interface&theme=transparent&title_color=7F00FF&text_color=ffffff&hide_border=true" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:C084FC&height=100&section=footer"/>
+
+</div>
 
