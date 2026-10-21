@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:C084FC&height=200&section=header&text=Ana%20Beatriz%20Coletto&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student&descAlignY=55&descSize=18"/>
 
-<a href="https://www.linkedin.com/in/anabeatrizcoletto/">
+<a href="https://www.linkedin.com/in/ana-beatriz-pereira-coletto?utm_source=share_via&utm_content=profile&utm_medium=member_android">
   <img src="https://img.shields.io/badge/LinkedIn-7F00FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:seuemail@exemplo.com">
