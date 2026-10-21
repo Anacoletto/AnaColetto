@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/ana-beatriz-pereira-coletto?utm_source=share_via&utm_content=profile&utm_medium=member_android">
   <img src="https://img.shields.io/badge/LinkedIn-7F00FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:seuemail@exemplo.com">
+<a href="mailto: anabcoletto@gmail.com">
   <img src="https://img.shields.io/badge/Email-C084FC?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
