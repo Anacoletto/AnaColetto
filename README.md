@@ -17,8 +17,8 @@
 
 Sou estudante de **Engenharia de Software** (2º ano), construindo bases sólidas em lógica, estruturas de dados e desenvolvimento web — com interesse crescente em **análise de dados** como diferencial na forma de pensar e resolver problemas.
 
-- 🔭 Atualmente aprofundando **[tecnologia que você está estudando agora]**
-- 🌱 Também estudando **Python para análise de dados** (Pandas, NumPy) como complemento à formação
+- 🔭 Atualmente estudando **IA aplicada com Java**, no Bootcamp Itaú
+- 🌱 Também tenho interesse em **análise de dados** como parte do meu raciocínio como desenvolvedora
 - 🎯 Buscando minha primeira oportunidade como **Engenheira de Software Júnior**
 - 💬 Aberta a trocar ideia sobre projetos, código e carreira
 
@@ -28,21 +28,7 @@ Sou estudante de **Engenharia de Software** (2º ano), construindo bases sólida
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,html,css,js,python,git,github,vscode&theme=dark" />
-
-</div>
-
-<br>
-
-### 📊 Também aplico em análise de dados
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,jupyter&theme=dark" />
-<img src="https://img.shields.io/badge/Pandas-7F00FF?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-C084FC?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-</div>
+<img src="https://skillicons.dev/icons?i=c,java,html,css,js,python,git,github,vscode&theme=dark" />
 
 <br>
 
@@ -66,8 +52,8 @@ Sou estudante de **Engenharia de Software** (2º ano), construindo bases sólida
 <a href="https://github.com/Anacoletto/Sistema-de-Gerenciamento-de-biblioteca">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anacoletto&repo=Sistema-de-Gerenciamento-de-biblioteca&theme=transparent&title_color=7F00FF&text_color=ffffff&hide_border=true" />
 </a>
-<a href="https://github.com/Anacoletto/Spotify-interface">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anacoletto&repo=Spotify-interface&theme=transparent&title_color=7F00FF&text_color=ffffff&hide_border=true" />
+<a href="https://github.com/Anacoletto/Convite-Virtual-de-Casamento">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anacoletto&repo=Convite-Virtual-de-Casamento&theme=transparent&title_color=7F00FF&text_color=ffffff&hide_border=true" />
 </a>
 
 </div>
